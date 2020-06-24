@@ -11,3 +11,5 @@ er pflegt zu sagen:
 
 > wir leben in interessanten Zeiten,
 > aber wir leben
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Edouard_Manet_Bunch_of_Asparagus.jpg"/>
